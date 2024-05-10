@@ -1,6 +1,6 @@
 // Initialize Firebase with your config
 firebase.initializeApp({
-  apiKey: "AIzaSyDP5nYbBY1hl5xbjoxTmp6LH8LKwt3Wv-A",
+  apiKey: "",
   authDomain: "task-management-app-a61e3.firebaseapp.com",
   projectId: "task-management-app-a61e3",
 });
