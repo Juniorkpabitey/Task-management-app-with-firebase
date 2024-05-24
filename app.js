@@ -1,8 +1,8 @@
 // Initialize Firebase with your config
 firebase.initializeApp({
   apiKey: "",
-  authDomain: "task-management-app-a61e3.firebaseapp.com",
-  projectId: "task-management-app-a61e3",
+  authDomain: "",
+  projectId: "",
 });
 
 const db = firebase.firestore();
